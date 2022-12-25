@@ -1,0 +1,14 @@
+#diff b/w max and min
+n=int(input())
+L=list(map(int,input().split()))
+x=max(L)-min(L)
+print(x)
+
+
+O/p.....
+
+3
+9 6 4
+5
+
+[Program finished]
